@@ -1,2 +1,5 @@
-# Pycharm file
+# IDE files
 .idea/
+
+# Notebook files
+.ipynb_checkpoints
